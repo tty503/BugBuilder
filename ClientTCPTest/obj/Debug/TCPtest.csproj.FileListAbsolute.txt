@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\TCPtest\bin\Debug\TCPtest.exe.config
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\TCPtest\bin\Debug\TCPtest.exe
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\TCPtest\bin\Debug\TCPtest.pdb
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\TCPtest\obj\Debug\TCPtest.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\TCPtest\obj\Debug\TCPtest.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\TCPtest\obj\Debug\TCPtest.exe
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\TCPtest\obj\Debug\TCPtest.pdb

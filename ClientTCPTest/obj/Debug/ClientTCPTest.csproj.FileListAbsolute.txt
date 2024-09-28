@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\TCPtest\bin\Debug\TCPtest.exe.config
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\TCPtest\bin\Debug\TCPtest.exe
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\TCPtest\bin\Debug\TCPtest.pdb
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\TCPtest\obj\Debug\ClientTCPTest.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\TCPtest\obj\Debug\TCPtest.exe
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\TCPtest\obj\Debug\TCPtest.pdb
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\ClientTCPTest\bin\Debug\ClientTCPTest.exe.config
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\ClientTCPTest\bin\Debug\ClientTCPTest.exe
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\ClientTCPTest\bin\Debug\ClientTCPTest.pdb
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\ClientTCPTest\obj\Debug\ClientTCPTest.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\ClientTCPTest\obj\Debug\ClientTCPTest.exe
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\ClientTCPTest\obj\Debug\ClientTCPTest.pdb
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\ClientTCPTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\ClientTCPTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\ClientTCPTest\obj\Debug\ClientTCPTest.csproj.CopyComplete

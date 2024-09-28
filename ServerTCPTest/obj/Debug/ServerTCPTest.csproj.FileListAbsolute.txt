@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\ServerTCPTest\bin\Debug\ServerTCPTest.exe.config
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\ServerTCPTest\bin\Debug\ServerTCPTest.exe
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\ServerTCPTest\bin\Debug\ServerTCPTest.pdb
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\ServerTCPTest\obj\Debug\ServerTCPTest.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\ServerTCPTest\obj\Debug\ServerTCPTest.exe
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\ServerTCPTest\obj\Debug\ServerTCPTest.pdb
+C:\Users\pc\source\repos\BugBuilder_V0.0.1\ServerTCPTest\obj\Debug\ServerTCPTest.csproj.AssemblyReference.cache
